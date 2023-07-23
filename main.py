@@ -58,7 +58,10 @@ def chapter_content_function(vid_id, chapters, chap_text):
     chap_title = chapter["title"]
     vid_url = get_video_url(vid_id, chapter["start"])
     chap_start_time = convert(chapter["start"])
-    st.subheader(f" **[{chap_start_time} - {chap_title}]({vid_url})**")
+    st.markdown(
+        f'[<p style="font-size:22px; color:gray;">{chap_start_time} - {chap_title}</p>]({vid_url}) ',
+        unsafe_allow_html=True,
+    )
     chap_description = "".join(chapter["description"])
     st.write(chap_description)
 
@@ -153,7 +156,10 @@ with col2:
 st.divider()
 
 st.markdown("## Curated Question Answers from the video")
-st.markdown("== I will add dynamic Q and A in next video")
+st.markdown(
+    "<small>I will add support for dynamic question and answering in next video",
+    unsafe_allow_html=True,
+)
 qa_contents = get_qa_contents(video_id)
 for i, qa in enumerate(qa_contents["qa"]):
     display_qa_content(video_id, qa, i)
