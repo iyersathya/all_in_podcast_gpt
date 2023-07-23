@@ -124,7 +124,7 @@ st.markdown(f" This page contains GPT generated output for {channel}  **{video_t
 st.divider()
 
 # video_display = get_youtube_window(video_id)
-col1, col2 = st.columns([3, 1])
+col1, col2 = st.columns([3, 2])
 
 with col1:
     st.markdown("### Video Summary")
