@@ -1,0 +1,6 @@
+langchain
+openai
+streamlit
+chromadb==0.3.29
+tiktoken
+lark
