@@ -194,7 +194,7 @@ def display_video_content(video_title):
 
 
 episodes_selection = st.selectbox(
-    "Select the episode for generating video details!!", video_titles
+    "Select the episode for generating video details!!", video_titles, index=0
 )
 st.divider()
 display_video_content(episodes_selection)
