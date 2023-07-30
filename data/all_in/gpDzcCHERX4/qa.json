@@ -16,12 +16,17 @@
     },
     {
         "question": "How did J-Cal lose weight",
-        "answer": "J-Cal lost weight by using a fasting app built by Kevin Rose and taking Ozempic. He also posted a ",
+        "answer": "J-Cal lost weight by using a fasting app built by Kevin Rose and taking Ozempic. He also posted a 'thirst trap' and took a picture of himself at his heaviest to remind himself not to overeat",
         "start": 411
     },
     {
         "question": "How did Chamath Palihapitiya win a $100,000 weight bet with Jason Calacanis",
-        "answer": "Chamath Palihapitiya won the weight bet by sweating for four hours and getting a tenth of a pound under the agreed weight before midnight. Jason Calacanis had been eating pizza and ice cream and tried to lose weight by taking a lead, but ultimately lost the bet",
+        "answer": "Chamath Palihapitiya made a weight bet with Jason Calacanis to lose 20 pounds in a year for $100,000. Chamath hit his goal, but Jason tried to cheat by eating pizza and ice cream before the weigh-in. Chamath still won the bet and Jason had to pay up",
+        "start": 811
+    },
+    {
+        "question": "How do the speakers feel about the normalization of obesity in America",
+        "answer": "David Friedberg and Chamath Palihapitiya believe that obesity should not be stigmatized, but it should be spoken about openly and treated with compassion. They also think that the normalization of obesity in America is unhealthy and is killing people. Jason Calacanis agrees and encourages people to work with their doctors and nutritionists to address their weight issues",
         "start": 811
     },
     {
@@ -30,8 +35,8 @@
         "start": 1191
     },
     {
-        "question": "What is David Sacks' opinion on the value proposition of VCs to founders",
-        "answer": "David Sacks believes that the main value proposition that a VC has to offer a founder is advice. He thinks that if a VC has never walked in the founder's shoes before, they are not in a position to offer them advice. He also thinks that it's important to have VCs who've been around the block and have seen the last downturn, who ideally could have warned founders that it was coming",
+        "question": "What is David Sacks' opinion on the value proposition of VCs for founders",
+        "answer": "David Sacks believes that the main value proposition that a VC has to offer a founder is advice. However, if a VC has never walked in the founder's shoes before or never founded a company, they are not in a position to offer them advice. He thinks that it's important to have VCs who've been around the block and have seen the last downturn to be able to tap for advice on how to get through a rough patch",
         "start": 1191
     },
     {
@@ -41,17 +46,17 @@
     },
     {
         "question": "What advice does Chamath Palihapitiya give to young people about achieving success in any field",
-        "answer": "Chamath Palihapitiya advises young people to put in tens of thousands of hours and sacrifice 60, 70, 80 hours a week for a decade or two to achieve success in any field. He believes that it's an immutable law of physics and that if you cannot or won't put in the effort, you should not expect success and should not complain",
+        "answer": "Chamath Palihapitiya advises young people to put in tens of thousands of hours and sacrifice 60, 70, 80 hours a week for a decade or two to master their craft. He believes that success requires hard work and dedication, and those who cannot or won't put in the effort should not expect success or complain",
         "start": 1811
     },
     {
         "question": "What is Chamath Palihapitiya's opinion on the Hollywood union protests",
-        "answer": "Chamath Palihapitiya believes that the Hollywood union protests will have the opposite effect of what the writers and actors guild want, as it will move the owners and studios closer to embracing AI tools that could disintermediate actors and writers. He also believes that unions are not an effective mechanism for negotiations",
+        "answer": "Chamath Palihapitiya believes that the Hollywood union protests will have the opposite effect of what the writers and actors guild want, as it will move the owners and studios closer to embracing AI tools that could disintermediate actors and writers. He also thinks that unions are not an effective mechanism for negotiations and that they are in decline",
         "start": 2272
     },
     {
         "question": "What is David Sacks' opinion on the Hollywood union demands",
-        "answer": "David Sacks sympathizes with some of the Hollywood union demands, such as more residuals for lower level performers to get healthcare, but thinks that other demands, such as not using AI software in writers rooms, are off base and unrealistic. He also acknowledges that Hollywood is a winner take all business, with a few big stars making a lot of money while others struggle to make a living",
+        "answer": "David Sacks believes that some of the union demands, such as more residuals for lower level performers to get healthcare, are reasonable. However, he thinks that demanding writers rooms not use AI software is off base and that AI is going to be incorporated into all software. He also acknowledges that Hollywood is a winner take all business, with a few actors becoming big stars and the majority making very little",
         "start": 2272
     },
     {
@@ -105,8 +110,8 @@
         "start": 4081
     },
     {
-        "question": "What is the significance of Damien Bertrand attending the All In Summit",
-        "answer": "Damien Bertrand, the CEO of Loro Piana, is a high-end partner attending the All In Summit, which could have positive implications for the event",
+        "question": "What is the potential impact of finding new materials for batteries",
+        "answer": "Finding new materials for batteries could lead to more energy-dense and cheaper batteries, which could have a significant impact on the automotive industry and energy storage",
         "start": 4081
     },
     {
@@ -116,7 +121,7 @@
     },
     {
         "question": "What is the topic of conversation towards the end of the transcript",
-        "answer": "Towards the end of the transcript, the speakers are saying goodbye and thanking their listeners for tuning in to the All-In Podcast",
+        "answer": "Towards the end of the transcript, the speakers are saying goodbye and thanking everyone for listening to the All-In Podcast",
         "start": 4502
     }
 ]
