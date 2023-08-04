@@ -129,8 +129,11 @@ title = "All-In Podcast GPT"
 channel = "All-IN Podcast"
 all_in_directory = f"data/all_in"
 
-dir_list = os.listdir(all_in_directory)
-
+dir_list = [
+    "hn-9ffDhGAo",
+    "gpDzcCHERX4",
+    "mpC6c6iYji8",
+]
 video_summary_info = {}
 video_titles = []
 for video_id_path in dir_list:
@@ -194,7 +197,7 @@ def display_video_content(video_title):
 
 
 episodes_selection = st.selectbox(
-    "Select the episode for generating video details!!", video_titles, index=1
+    "Select the episode for generating video details!!", video_titles, index=0
 )
 st.divider()
 display_video_content(episodes_selection)
