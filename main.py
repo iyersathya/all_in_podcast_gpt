@@ -48,7 +48,7 @@ def qa_content_function(vid_id, qa, qa_text):
     question = qa_info["question"]
     vid_url = get_video_url(vid_id, qa_info["start"])
     q_start_time = convert(qa_info["start"])
-    st.markdown(f" **[{question}]({vid_url})**")
+    st.subheader(f" **[{question}]({vid_url})**")
     answer = "".join(qa_info["answer"])
     st.write(answer)
 
@@ -109,7 +109,7 @@ def show_chapters(
 
 
 def show_speakers(output_path, video_id):
-    st.markdown("## Speaker Summary")
+    st.markdown("### Speaker Summary")
     with open(f"{output_path}/{video_id}/speaker_summary.json", "r") as fh:
         speakers = json.load(fh)
         sps = []
@@ -159,30 +159,31 @@ def display_video_content(video_title):
     video_id = video_info["video_id"]
 
     # video_display = get_youtube_window(video_id)
-    col1, col2 = st.columns([3, 3])
+    col1, col2 = st.columns([3, 2])
 
     with col1:
-        st.markdown("### Video Summary")
         st.markdown("".join(video_info["summary"]))
-        st.divider()
-        show_speakers(
-            all_in_directory,
-            video_id,
-        )
-
-        show_chapters(
-            all_in_directory,
-            video_id,
-        )
 
     with col2:
         video_url = get_video_url(video_id, 0)
         st.video(video_url)
         st.markdown(video_title)
-        st.divider()
-        show_qa(all_in_directory, video_id)
 
-    st.markdown("## Curated Question Answers from the video")
+    st.divider()
+
+    show_speakers(
+        all_in_directory,
+        video_id,
+    )
+    show_chapters(
+        all_in_directory,
+        video_id,
+    )
+
+    st.divider()
+    # show_qa(all_in_directory, video_id)
+
+    st.markdown("### Curated Question Answers from the video")
     st.markdown(
         "<small>I will add support for dynamic question and answering in next video",
         unsafe_allow_html=True,
@@ -193,9 +194,11 @@ def display_video_content(video_title):
 
 
 episodes_selection = st.selectbox(
-    "Select the episode for generating video details!!", video_titles, index=0
+    "Select the episode for generating video details!!", video_titles, index=1
 )
 st.divider()
+st.markdown("### Video Summary")
+
 display_video_content(episodes_selection)
 
 st.divider()
