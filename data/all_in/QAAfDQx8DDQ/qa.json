@@ -1,0 +1,177 @@
+[
+    {
+        "question": "What is the topic of the book that Bill Gurley is working on",
+        "answer": "Bill Gurley is working on a book about how to chase and succeed in your dream job, which is a further development of a speech he gave at University of Texas Business School",
+        "start": 0
+    },
+    {
+        "question": "What impacted Friedberg's behavior as a CEO when he was running his company, Climate Corporation",
+        "answer": "Reading about Steve Jobs' management style in Walter Isaacson's biography of Steve Jobs impacted Friedberg's behavior as a CEO when he was running his company, Climate Corporation",
+        "start": 0
+    },
+    {
+        "question": "What is the topic of the book that J. Cal is planning to write",
+        "answer": "J. Cal is planning to write a book about how to create, run, scale, and operate software companies, which will be an extension of the blog he has been writing for a couple of years",
+        "start": 0
+    },
+    {
+        "question": "What was the speaker's experience with reading business self-help books",
+        "answer": "The speaker came away from reading a business self-help book feeling that they were too theoretical and not helpful in specific situations",
+        "start": 575
+    },
+    {
+        "question": "What are some business biographies recommended by the speakers",
+        "answer": "Some recommended business biographies include Teddy Roosevelt, Phil Knight, Alexander Hamilton, Akira Kurosawa, and Malcolm X",
+        "start": 575
+    },
+    {
+        "question": "What is the significance of the movie Seven Samurai in relation to business success",
+        "answer": "The movie Seven Samurai demonstrates the importance of persistence and facing challenges, which are also important traits for success in business",
+        "start": 575
+    },
+    {
+        "question": "What is the speaker's opinion on cold plunges",
+        "answer": "The speaker initially thought cold plunges were nonsense but has since tried it and feels like a superhero afterwards",
+        "start": 575
+    },
+    {
+        "question": "What was the influence of Kurosawa's Hidden Fortress on Star Wars",
+        "answer": "The Hidden Fortress was a big influence on Star Wars, with characters like R2D2 and C3PO being direct descendants of characters in the film",
+        "start": 1179
+    },
+    {
+        "question": "What Kurosawa film inspired the TV show Breaking Bad",
+        "answer": "The Kurosawa film Ikiru, which means 'to live' in Japanese, inspired the TV show Breaking Bad, which is about a man who finds out he's going to die and decides to live his life to the fullest",
+        "start": 1179
+    },
+    {
+        "question": "What is the median round for series A funding and how has it changed year over year",
+        "answer": "The median round for series A funding is now $7 million, which is down 26% year over year. This is a return to normalcy after the peak of the venture capital market in Q4 of 2021",
+        "start": 1179
+    },
+    {
+        "question": "What is the difference between selling promise and selling performance in the startup world",
+        "answer": "Selling promise is easier than selling performance in the startup world, as investors are more willing to believe in the optimistic path a company might take. Once a company starts having revenue and making a profit, their valuation may go down as they are judged on the quality of that stage of the business",
+        "start": 1179
+    },
+    {
+        "question": "What is the current state of the venture capital market",
+        "answer": "According to the speakers, the venture capital market has stabilized for new companies, but there may be a one to two year period of distress for companies that raised in the peak of 2020 and 2021 and are now running out of money",
+        "start": 1822
+    },
+    {
+        "question": "What is the definition of dry powder in the VC industry",
+        "answer": "Dry powder refers to the money that VC firms have raised from LPs, but have not yet drawn down. This money is not sitting in the VC's bank account, but rather in the LP's bank account",
+        "start": 1822
+    },
+    {
+        "question": "Why do VC firms not draw down the money from LPs immediately",
+        "answer": "VC firms do not draw down the money immediately because LPs are not on the IRR clock until they actually pull the money down. They charge fees based on the total committed amount, but they don't actually draw the money down and get gauged on the performance of their investment until they need it",
+        "start": 1822
+    },
+    {
+        "question": "What are some of the challenges facing VC firms with a lot of dry powder",
+        "answer": "VC firms with a lot of dry powder may face challenges such as not having liquidity proof points on their funds, not wanting to run out of money and go back to market too quickly, and facing the imminent death of their firm if they run out too quickly and there is no market",
+        "start": 1822
+    },
+    {
+        "question": "How has the business cycle affected enterprise software companies",
+        "answer": "The business cycle has affected enterprise software companies in subtle ways, even those selling to other startups. There are fewer startups hitting the same bar as a couple of years ago",
+        "start": 2427
+    },
+    {
+        "question": "Why are LPs reducing their commitments to venture funds",
+        "answer": "LPs are reducing their commitments to venture funds because they are wondering what their portfolios will ultimately be worth and what the actual cash distributions will be. There are also new rules that require LPs to distribute 5% of their assets each year to the institution they represent, which can create potential liquidity issues",
+        "start": 2427
+    },
+    {
+        "question": "How has the nature of LPs changed in the venture capital industry",
+        "answer": "The nature of LPs has changed in the venture capital industry, with pensions, sovereign wealth funds, and other non-traditional LPs representing a much bigger percentage of the total capital base of venture. This change may be contributing to the current AI mania and the lack of LPs slowing down the pace of deployment",
+        "start": 2427
+    },
+    {
+        "question": "Why is it difficult to do another private round for complex unicorns",
+        "answer": "It is difficult to do another private round for complex unicorns because their cap charts are very complex and rigid, with different lick preferences at different places and board members who all have different marks. This makes it very difficult to negotiate with multiple constituencies on how to do a simple investment",
+        "start": 2427
+    },
+    {
+        "question": "Why do companies sometimes choose to go public",
+        "answer": "Companies may choose to go public as a way to clean up their cap chart and simplify their structure, especially if they have had problematic financing or complex ownership structures",
+        "start": 3127
+    },
+    {
+        "question": "What is the impact of the removal of the right to protect liquefaction IPO for investors",
+        "answer": "The removal of the right to protect liquefaction IPO for investors means that they may not be able to get a multiple of their money back in an IPO, unlike in M&A where liquefaction would play. This could potentially wipe out their LICPREF",
+        "start": 3127
+    },
+    {
+        "question": "Why are more IPOs expected to happen in the future",
+        "answer": "More IPOs are expected to happen in the future due to the pressure on companies to raise capital, the lack of M&A opportunities, and the need to clean up complexity. Additionally, high-quality companies that have experienced a reset in valuation may choose to go public at a discount to fair value",
+        "start": 3127
+    },
+    {
+        "question": "What is the denominator effect and how has it affected LP commitments to venture capital",
+        "answer": "The denominator effect is when the value of a portfolio goes down, causing the percentage of the portfolio allocated to venture capital to increase. This has caused LPs to slow their allocations to venture capital, especially domestic LPs who are still affected by the denominator problem",
+        "start": 3127
+    },
+    {
+        "question": "What is the best scene in modern finance films according to one of the speakers",
+        "answer": "According to one of the speakers, the best scene in modern finance films is from the movie Margin Call",
+        "start": 3799
+    },
+    {
+        "question": "What is the paradox of being a crossover investor",
+        "answer": "The paradox of being a crossover investor is that in public markets, insider trading is not allowed, while in private markets, it is all about insider information",
+        "start": 3799
+    },
+    {
+        "question": "Why do startups want to control who their investors are",
+        "answer": "Startups want to control who their investors are because they are highly risky and want investors who have a track record of behavior where they don't have to worry about losing every time something doesn't work out, which is most of the time",
+        "start": 3799
+    },
+    {
+        "question": "What is the debate between hard landing and soft landing in the economy",
+        "answer": "The debate between hard landing and soft landing in the economy is about whether there will be a reacceleration of inflation or not. The speaker believes that this debate dictates whether or not now is a good time for them to invest",
+        "start": 3799
+    },
+    {
+        "question": "Who is GoKul and what did he tweet about last month",
+        "answer": "GoKul is a former leader at Facebook and a current employee at DoorDash. He tweeted about how comparing a tech venture investor's funds return to the SMP is naive or disingenuous and that the correct index to compare to is the QQQ",
+        "start": 4454
+    },
+    {
+        "question": "According to the transcript, what is the correct benchmark for a private investor",
+        "answer": "The correct benchmark for a private investor is the QQQ, which is the NASDAQ composite",
+        "start": 4454
+    },
+    {
+        "question": "What is the current state of the venture capital industry in terms of deployment",
+        "answer": "According to the chart from Statista, the venture capital industry had a deployment of $350 billion in 2021, but it has started to come down in 2022 to about $250 billion. The steady state for the industry is estimated to be between $100 to $150 billion a year",
+        "start": 4454
+    },
+    {
+        "question": "What is the speaker's opinion on the current state of global warming",
+        "answer": "The speaker believes that the data on global warming is un-fucking-believable and that the earth is becoming hotter and more dangerous. The amount of extreme weather is increasing and it is becoming more apparent that this is a serious issue",
+        "start": 4454
+    },
+    {
+        "question": "What are some of the challenges in addressing atmospheric carbon and climate change",
+        "answer": "According to one speaker, there is no silver bullet solution to addressing atmospheric carbon and climate change. It requires a coordinated effort and overcoming market incentives that make it difficult to implement solutions",
+        "start": 5093
+    },
+    {
+        "question": "What are some of the most important solutions to addressing climate change",
+        "answer": "Renewable energy and nuclear power are mentioned as two of the most important solutions to addressing climate change, but there are also other areas such as industrial production and agriculture that need to be considered",
+        "start": 5093
+    },
+    {
+        "question": "What are some concerns about the current state of the economy",
+        "answer": "There are concerns about the level of debt, both private and government, and the impact it could have on the economy. Additionally, there are worries about inflation and disinflation, as well as the impact of quantitative tightening and interest rates on borrowing and spending",
+        "start": 5093
+    },
+    {
+        "question": "What is the market betting will happen to the Fed funds rates",
+        "answer": "The market is betting that the Fed funds rate will come down either because of inflation or because the economy continues to slow. This is due to concerns about the impact of quantitative tightening and interest rates on borrowing and spending",
+        "start": 5093
+    }
+]
