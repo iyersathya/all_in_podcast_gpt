@@ -4,6 +4,9 @@ from langchain.llms import OpenAI
 import streamlit.components.v1 as components
 import json
 import os
+import streamlit as st
+from PIL import Image
+import base64
 
 
 def convert(seconds):
@@ -125,6 +128,25 @@ def get_video_url(video_id, secs):
     return f"https://www.youtube.com/watch?v={video_id}&t={secs}"
 
 
+def get_image_seconds(image_file_name):
+    splits = image_file_name[:-4].split("_")
+    if len(splits) > 0:
+        return int(splits[len(splits) - 1])
+    return -1
+
+
+def get_image_base_64(image_file_path):
+    with open(image_file_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode()
+
+
+def get_image_file_list(video_id):
+    image_dir = f"data/all_in/{video_id}/images"
+    image_list = os.listdir(image_dir)
+    # grab last 4 characters of the file name:
+    return sorted(image_list, key=get_image_seconds)
+
+
 title = "The All-In Podcast GPT"
 channel = "**The All-IN Podcast**"
 all_in_directory = f"data/all_in"
@@ -163,43 +185,68 @@ def display_video_content(video_title):
     col1, col2 = st.columns([3, 2])
 
     with col1:
+        st.markdown("### Video Summary")
+        st.divider()
         st.markdown("".join(video_info["summary"]))
+        show_speakers(
+            all_in_directory,
+            video_id,
+        )
+        show_chapters(
+            all_in_directory,
+            video_id,
+        )
+
+        st.divider()
+        # show_qa(all_in_directory, video_id)
+
+        st.markdown("### Curated Question Answers from the video")
+        st.markdown(
+            "<small>I will add support for dynamic question and answering in next video",
+            unsafe_allow_html=True,
+        )
+        qa_contents = get_qa_contents(all_in_directory, video_id)
+        for i, qa in enumerate(qa_contents):
+            display_qa_content(video_id, qa, i)
 
     with col2:
         video_url = get_video_url(video_id, 0)
         st.video(video_url)
         st.markdown(video_title)
+        image_list = get_image_file_list(video_id)
+        image_dir = f"data/all_in/{video_id}/images"
+
+        # seconds_list = []
+        # seconds_int = []
+        # for image_fi in image_list:
+        #     seconds = get_image_seconds(image_fi)
+        #     seconds_list.append(str(seconds) + " secs")
+        #     seconds_int.append(seconds)
+
+        # output = st.tabs(seconds_list)
+        # for index, out in enumerate(output):
+        #     with out:
+        #         image_fi = image_list[index]
+        #         secs = seconds_int[index]
+        #         v_url = get_video_url(video_id, secs)
+        #         encoded_img = get_image_base_64(f"{image_dir}/{image_fi}")
+        #         html = f"<a href='{v_url}'><img width=320 height=240 src='data:image/png;base64, {encoded_img}'></a>"
+        #         st.markdown(html, unsafe_allow_html=True)
+
+        for image_fi in image_list:
+            seconds = get_image_seconds(image_fi)
+            v_url = get_video_url(video_id, seconds)
+            encoded_img = get_image_base_64(f"{image_dir}/{image_fi}")
+            html = f"<a href='{v_url}'><img width=400 height=300 src='data:image/png;base64, {encoded_img}'></a>"
+            st.markdown(html, unsafe_allow_html=True)
+            # st.markdown(f"**Jump to {seconds}**")
+            st.divider()
 
     st.divider()
-
-    show_speakers(
-        all_in_directory,
-        video_id,
-    )
-    show_chapters(
-        all_in_directory,
-        video_id,
-    )
-
-    st.divider()
-    # show_qa(all_in_directory, video_id)
-
-    st.markdown("### Curated Question Answers from the video")
-    st.markdown(
-        "<small>I will add support for dynamic question and answering in next video",
-        unsafe_allow_html=True,
-    )
-    qa_contents = get_qa_contents(all_in_directory, video_id)
-    for i, qa in enumerate(qa_contents):
-        display_qa_content(video_id, qa, i)
 
 
 episodes_selection = st.selectbox(
     "Select the episode for generating video details!!", video_titles, index=0
 )
 st.divider()
-st.markdown("### Video Summary")
-
 display_video_content(episodes_selection)
-
-st.divider()
