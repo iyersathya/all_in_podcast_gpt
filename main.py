@@ -7,6 +7,11 @@ import os
 import streamlit as st
 from PIL import Image
 import base64
+import datetime
+
+
+def get_formated_time(sec):
+    return str(datetime.timedelta(seconds=sec))
 
 
 def convert(seconds):
@@ -51,7 +56,8 @@ def qa_content_function(vid_id, qa, qa_text):
     question = qa_info["question"]
     vid_url = get_video_url(vid_id, qa_info["start"])
     q_start_time = convert(qa_info["start"])
-    st.subheader(f" **[{question}]({vid_url})**")
+    # st.subheader(f" **[{question}]({vid_url})**")
+    st.markdown(f" **[{question}]({vid_url})**")
     answer = "".join(qa_info["answer"])
     st.write(answer)
 
@@ -76,7 +82,8 @@ def get_qa_contents(output_path, video_id):
 
 
 def show_qa(output_path, video_id):
-    st.markdown("Curated Question Answers from the video")
+    st.divider()
+    st.markdown("Some interesting Question Answers from the video")
     with open(f"{output_path}/{video_id}/qa.json", "r") as fh:
         qa = json.load(fh)
         first = True
@@ -140,11 +147,37 @@ def get_image_base_64(image_file_path):
         return base64.b64encode(image_file.read()).decode()
 
 
-def get_image_file_list(video_id):
+def get_image_file_list(image_dir, video_id):
+    try:
+        image_list = os.listdir(image_dir)
+        # grab last 4 characters of the file name:
+        return sorted(image_list, key=get_image_seconds)
+    except:
+        return None
+
+
+def show_clips(video_id):
     image_dir = f"data/all_in/{video_id}/images"
-    image_list = os.listdir(image_dir)
-    # grab last 4 characters of the file name:
-    return sorted(image_list, key=get_image_seconds)
+    image_list = get_image_file_list(image_dir, video_id)
+    # st.header("Interesting Content clips")
+    # st.header("Clips")
+    st.subheader("Interesting Content clips")
+    if image_list:
+        for index, image_fi in enumerate(image_list):
+            seconds = get_image_seconds(image_fi)
+            v_url = get_video_url(video_id, seconds)
+
+            # encoded_img = get_image_base_64(f"{image_dir}/{image_fi}")
+            # html = f"<a href='{v_url}'><img width=640 height=480 src='data:image/png;base64, {encoded_img}'></a>"
+            # st.markdown(html, unsafe_allow_html=True)
+            st.image(f"{image_dir}/{image_fi}")
+            time_str = get_formated_time(seconds)
+            st.markdown(f"### [Clip at {time_str}]({v_url})", unsafe_allow_html=True)
+            # st.markdown(f"**Jump to {seconds}**")
+            if index < len(image_list) - 1:
+                st.divider()
+    else:
+        st.markdown("No content generated for this video")
 
 
 title = "The All-In Podcast GPT"
@@ -200,22 +233,20 @@ def display_video_content(video_title):
         st.divider()
         # show_qa(all_in_directory, video_id)
 
-        st.markdown("### Curated Question Answers from the video")
-        st.markdown(
-            "<small>I will add support for dynamic question and answering in next video",
-            unsafe_allow_html=True,
-        )
-        qa_contents = get_qa_contents(all_in_directory, video_id)
-        for i, qa in enumerate(qa_contents):
-            display_qa_content(video_id, qa, i)
+        # st.markdown("### Curated Question Answers from the video")
+        # st.markdown(
+        #     "<small>I will add support for dynamic question and answering in next video",
+        #     unsafe_allow_html=True,
+        # )
+        # qa_contents = get_qa_contents(all_in_directory, video_id)
+        # for i, qa in enumerate(qa_contents):
+        #     display_qa_content(video_id, qa, i)
 
     with col2:
         video_url = get_video_url(video_id, 0)
         st.video(video_url)
         st.markdown(video_title)
-        image_list = get_image_file_list(video_id)
-        image_dir = f"data/all_in/{video_id}/images"
-
+        show_qa(all_in_directory, video_id)
         # seconds_list = []
         # seconds_int = []
         # for image_fi in image_list:
@@ -233,20 +264,16 @@ def display_video_content(video_title):
         #         html = f"<a href='{v_url}'><img width=320 height=240 src='data:image/png;base64, {encoded_img}'></a>"
         #         st.markdown(html, unsafe_allow_html=True)
 
-        for image_fi in image_list:
-            seconds = get_image_seconds(image_fi)
-            v_url = get_video_url(video_id, seconds)
-            encoded_img = get_image_base_64(f"{image_dir}/{image_fi}")
-            html = f"<a href='{v_url}'><img width=400 height=300 src='data:image/png;base64, {encoded_img}'></a>"
-            st.markdown(html, unsafe_allow_html=True)
-            # st.markdown(f"**Jump to {seconds}**")
-            st.divider()
-
+    show_clips(video_id)
     st.divider()
 
 
 episodes_selection = st.selectbox(
     "Select the episode for generating video details!!", video_titles, index=0
+)
+st.markdown(
+    "[Go to Interesting content clips from this video](#interesting-content-clips)",
+    unsafe_allow_html=True,
 )
 st.divider()
 display_video_content(episodes_selection)
