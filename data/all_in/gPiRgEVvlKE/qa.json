@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Who did the speaker have a zoom interview with from the International Space Station",
+        "answer": "The speaker had a zoom interview with astronaut Woody Hoberg from the International Space Station",
+        "start": 0
+    },
+    {
+        "question": "Did the speaker and the astronaut discuss going to the moon",
+        "answer": "Yes, the astronaut mentioned that he is on the Artemis mission, which involves landing on the south side of the moon",
+        "start": 0
+    },
+    {
+        "question": "What did the speaker's poll reveal about people's interest in trying an all-in tequila",
+        "answer": "The poll showed that 41% of respondents said they would try an all-in tequila, while 40% said they wouldn't",
+        "start": 0
+    },
+    {
+        "question": "What did the speaker emphasize when it comes to creating a tequila brand",
+        "answer": "The speaker emphasized the importance of focusing on exceptional product quality rather than just the price point",
+        "start": 0
+    },
+    {
+        "question": "What is the potential impact of other companies developing chipsets and capabilities to compete with Nvidia",
+        "answer": "The development of chipsets and capabilities by other companies to compete with Nvidia may motivate them even more and accelerate the path of competition. This could potentially lead to decaying margins for Nvidia in the absence of a monopoly",
+        "start": 604
+    },
+    {
+        "question": "Will the increasing capacity of compute outstrip the need for that compute due to advancements in software",
+        "answer": "The efficient use of compute depends on the return on investment (ROI) for a particular application. There may be a point where increasing compute does not result in a proportional increase in ROI, leading to a declining or negative rate of return. The market is currently in a cycle of inefficient spending on compute, and it remains uncertain if there will be enough interesting jobs to run on the increasing capacity",
+        "start": 604
+    },
+    {
+        "question": "Is the current demand for GPU compute and the shortage of chips sustainable",
+        "answer": "The current demand for GPU compute, driven by the launch of chat GPT and the scramble to develop AI strategies, has led to a GPU shortage and high profit margins for Nvidia. However, it is uncertain if these profit margins are sustainable in the long term. The steady state of demand in the market is still unknown, but it is unlikely to continue at the same growth rates",
+        "start": 604
+    },
+    {
+        "question": "What are some potential jobs that could be pushed to the increasing compute capacity and have a significant impact",
+        "answer": "The use of increasing compute capacity can lead to the creation of new applications and solutions. One area of potential impact is computational biology, where the ability to compute large complex spaces with sparse information can be beneficial. The development of quasi-free tools, such as large models, by big tech companies can also create opportunities for startups to build on top of these tools",
+        "start": 604
+    },
+    {
+        "question": "What was the impact of the gold rush on the state of California",
+        "answer": "The gold rush led to the creation of the state of California and contributed to its significant GDP, making it one of the largest economies in the world",
+        "start": 1240
+    },
+    {
+        "question": "What are some potential applications of fine-tuning in AI models",
+        "answer": "Fine-tuning allows for training models on specific data and improving their performance on narrow tasks. It can be used to fine-tune formatting, tone, and instructions, making the models more useful and versatile",
+        "start": 1240
+    },
+    {
+        "question": "What are the challenges in developing AI systems beyond just chips",
+        "answer": "As AI systems evolve, they require more sophisticated software to handle deterministic tasks and execute code in different ways. The integration of chips into entire systems creates a competitive industry with potential erosion of profit margins",
+        "start": 1240
+    },
+    {
+        "question": "Why might enterprises prefer to roll their own models and control the fine-tuning process",
+        "answer": "Many enterprises may be hesitant to trust their data with open AI and prefer to have control over their models. Open-source tools provide the ability to fine-tune models internally, ensuring data integrity and security",
+        "start": 1240
+    },
+    {
+        "question": "What was the purpose of the Common Crawl project",
+        "answer": "The intention of the Common Crawl project was to make web crawling, indexing, and caching available for various projects, including open AI applications",
+        "start": 2081
+    },
+    {
+        "question": "Who were some of the major shareholders of Google",
+        "answer": "Gil, the founder of Applied Semantics, was a significant shareholder of Google",
+        "start": 2081
+    },
+    {
+        "question": "Why did SoftBank take a company public despite the headwinds and no growth",
+        "answer": "SoftBank took the company public to de-lever their balance sheet and replenish their liquidity, as they had significant debt and needed to clean up their financials",
+        "start": 2081
+    },
+    {
+        "question": "Why are some startups considering M&A as an exit strategy",
+        "answer": "Some startups are considering M&A as an exit strategy because they realize their current approach is not working and they may not be able to raise another round of funding",
+        "start": 2081
+    },
+    {
+        "question": "What are some key factors that businesses need to focus on in order to become profitable",
+        "answer": "Businesses need to restructure their plans, focus on customer experience, increase retention and prices, and be efficient with allocating resources in order to become profitable",
+        "start": 2630
+    },
+    {
+        "question": "Why is going public not a viable option for companies that are not profitable",
+        "answer": "Going public is not a viable option for non-profitable companies because shareholders don't want to invest in a company that may run out of money, and there is no ability to raise capital through secondary or follow-on offerings",
+        "start": 2630
+    },
+    {
+        "question": "What are some alternative paths for companies that are not eligible for venture capital funding",
+        "answer": "Companies that are not eligible for venture capital funding can either cut their burn and become cash flow positive to control their own destiny or consider a private equity model where they focus on being cash flow positive rather than burning cash",
+        "start": 2630
+    },
+    {
+        "question": "How can adding private equity discipline to a company's board help accelerate its path to profitability",
+        "answer": "Adding private equity discipline to a company's board can provide a clear mandate and measurable goals, helping the company focus on becoming profitable faster and with precision due to the different toolkit and reaction to mis-execution",
+        "start": 2630
+    },
+    {
+        "question": "Who were the big winners in the GOP debate according to the speakers",
+        "answer": "According to the speakers, the big winners in the GOP debate were Nikki Haley, Chris Christie, Vivek, and Scott",
+        "start": 3358
+    },
+    {
+        "question": "What strategy did Vivek employ to gain support from Trump loyalists",
+        "answer": "Vivek positioned himself as a backup plan to Trump and cultivated support within Trump's base without criticizing him",
+        "start": 3358
+    },
+    {
+        "question": "How did the Republican Party demonstrate itself as the party of ideas during the debate",
+        "answer": "The Republican Party showcased real differences between candidates and had debates on various ideas, unlike the Democratic Party which was protecting Biden from a debate",
+        "start": 3358
+    },
+    {
+        "question": "How did Trump benefit from not participating in the debate",
+        "answer": "Trump did not face any attacks or criticism during the debate and was able to garner attention through his interview with Tucker Carlson, without even participating in the debate",
+        "start": 3358
+    },
+    {
+        "question": "What is the role of a politician when running for President of the United States",
+        "answer": "The role of a politician running for President is to provide leadership, cast a light on the country's opportunities, and offer a sense of optimism and what should be different, rather than just reflecting back what people already believe",
+        "start": 3994
+    },
+    {
+        "question": "Why did Vivek differ from other candidates on Biden's Ukraine policy",
+        "answer": "Vivek was the only candidate on the stage who openly disagreed with Biden's Ukraine policy, despite polling showing a majority of Americans and Republicans opposing giving more aid to Ukraine",
+        "start": 3994
+    },
+    {
+        "question": "How do candidates balance being principled with winning the game in politics",
+        "answer": "It is a delicate balance for candidates to decide when to break the mold and do what they believe is right, even if it's unpopular, versus doing what the majority wants in order to win. There is no clear answer, and it varies depending on the situation and the candidate's values",
+        "start": 3994
+    },
+    {
+        "question": "What skills are necessary to become President of the United States",
+        "answer": "Becoming President requires a multifaceted set of skills, including strong oration skills, the ability to handle pressure, nuanced policy understanding, and the capacity to communicate effectively. It is not solely about debate performance, but also about governing skills and the ability to handle complex situations",
+        "start": 3994
+    },
+    {
+        "question": "What is the significance of candidates using social media and podcasts in the current political landscape",
+        "answer": "The use of social media and podcasts allows candidates to directly engage with the public and bypass traditional media, potentially influencing the perception of their candidacy",
+        "start": 4672
+    },
+    {
+        "question": "How does the establishment wing of a political party impact the rise of out-of-the-box candidates",
+        "answer": "The establishment wing's disconnect from the desires of the party's base creates an opportunity for unconventional candidates to gain traction by addressing issues that are not being prioritized by the establishment",
+        "start": 4672
+    },
+    {
+        "question": "How can candidates be evaluated beyond their oratorical skills",
+        "answer": "Evaluating candidates should involve looking at their track record, executive functioning abilities, and gathering data and references to assess their success and skills in relevant areas",
+        "start": 4672
+    },
+    {
+        "question": "What were the three major themes that Trump successfully tapped into during his candidacy",
+        "answer": "Trump's campaign focused on opposing forever wars in the Middle East, advocating for border security, and addressing trade relations with China, which resonated with a significant portion of the electorate",
+        "start": 4672
+    },
+    {
+        "question": "What was the main takeaway from the conversation about the Republican Party's support for Pence on January 6th",
+        "answer": "The main takeaway was that there was a mix of support and criticism for Pence, with some audience members cheering for him and others booing, indicating a divided opinion within the Republican Party",
+        "start": 5263
+    },
+    {
+        "question": "According to the transcript, what is DeSantis' argument against focusing on January 6th",
+        "answer": "DeSantis argues that spending time debating January 6th plays into Biden's hands and distracts from the issues that could help the Republican Party win against him",
+        "start": 5263
+    },
+    {
+        "question": "What is the electability argument for DeSantis over Trump",
+        "answer": "The argument is that DeSantis may have a better chance of winning swing states that voted against Trump in the previous election, as Trump has high negatives and would need to flip those states to win",
+        "start": 5263
+    },
+    {
+        "question": "Who are the potential final three candidates to debate Trump, according to the speakers",
+        "answer": "The potential final three candidates to debate Trump could be DeSantis, Vivek, and either Tim Scott or Nikki Haley, depending on the outcome of the Republican nomination process",
+        "start": 5263
+    },
+    {
+        "question": "Why did Vivek's statement about climate change being a hoax draw negative reactions",
+        "answer": "Vivek's statement drew negative reactions because it came across as him denying the existence of climate change, rather than criticizing the climate change agenda or the ESG movement",
+        "start": 5834
+    },
+    {
+        "question": "What are some reasons to pursue sustainable and clean energy",
+        "answer": "Some reasons to pursue sustainable and clean energy include reducing pollution, finding more cost-effective options, and addressing geopolitical concerns",
+        "start": 5834
+    },
+    {
+        "question": "How did COVID-19 impact people's trust in scientific experts",
+        "answer": "COVID-19 exposed instances where scientific experts were wrong or provided misleading information, leading to a decrease in trust in these experts and their claims",
+        "start": 5834
+    },
+    {
+        "question": "What consequences can arise from dogmatically believing in bodies of evidence without fully interrogating them",
+        "answer": "Dogmatically believing in bodies of evidence without fully interrogating them can lead to misguided conclusions and actions that have measurable human consequences, as seen in the case of utility companies neglecting protective measures around power lines",
+        "start": 5834
+    },
+    {
+        "question": "Who is being discussed in the conversation about the plane incident",
+        "answer": "The conversation is discussing Purgosian, the person involved in the plane incident",
+        "start": 6388
+    },
+    {
+        "question": "What are some speculations about the plane incident",
+        "answer": "Some speculations include a bird strike, an explosive device, or someone intentionally taking Purgosian out",
+        "start": 6388
+    },
+    {
+        "question": "What is the opinion on the stability of the Russian regime",
+        "answer": "The opinion is that the Russian regime is stable and winning the war, with Putin still being the master of Russia",
+        "start": 6388
+    },
+    {
+        "question": "What is the view on the possibility of regime change in Russia",
+        "answer": "The view is that the idea of regime change in Russia is absurd and has led to a negative outcome",
+        "start": 6388
+    }
+]
