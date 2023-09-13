@@ -1,0 +1,77 @@
+[
+    {
+        "question": "How many companies is Elon Musk involved with",
+        "answer": "Elon Musk is involved with multiple companies, including SpaceX, Tesla, X.com, Boring Company, Neuralink, OpenAI, and the Musk Foundation",
+        "start": 9
+    },
+    {
+        "question": "How does the Starlink connection on airplanes compare to ground connections",
+        "answer": "The Starlink connection on airplanes can be better than the connection at people's houses, as it has low latency and can provide a seamless experience in-flight",
+        "start": 9
+    },
+    {
+        "question": "What is the probability of the next Starship launch making it to orbit",
+        "answer": "Elon Musk estimates that there is a probability of over 50% for the stage separation and close to 50% chance of reaching orbit, especially with the new hot staging technique being tested",
+        "start": 9
+    },
+    {
+        "question": "Why was the Starlink connectivity turned off in Crimea",
+        "answer": "The Starlink connectivity in Crimea was initially turned off due to US sanctions against Russia, which included Crimea. Explicit government approval was required to turn on connectivity to a sanctioned country",
+        "start": 9
+    },
+    {
+        "question": "Do you think the current government administration is excluding SpaceX from receiving funding",
+        "answer": "It doesn't make sense for SpaceX to be excluded from funding when other providers of support to Ukraine are being paid",
+        "start": 783
+    },
+    {
+        "question": "What is the danger of the misuse of prosecutorial discretion in government agencies",
+        "answer": "The danger is that it can lead to partisan politics and the pursuit of trivial cases while ignoring serious crimes, which may not win over thoughtful independent voters",
+        "start": 783
+    },
+    {
+        "question": "How has the acquisition of Twitter changed the platform",
+        "answer": "The acquisition has aimed to move Twitter to the middle and make it a level playing field that represents the whole country, rather than being left-leaning",
+        "start": 783
+    },
+    {
+        "question": "Why did you implement revenue sharing for creators on the X platform",
+        "answer": "The intent is to provide fair and competitive compensation for creators and make the platform the best home for them",
+        "start": 783
+    },
+    {
+        "question": "What are the two positions that have brought the most heat on Elon Musk",
+        "answer": "The two positions that have brought the most heat on Elon Musk are defending free speech and advocating peace",
+        "start": 1760
+    },
+    {
+        "question": "What is the main concern regarding digital superintelligence",
+        "answer": "The main concern regarding digital superintelligence is that it has the potential to be more dangerous than nuclear weapons",
+        "start": 1760
+    },
+    {
+        "question": "What is Elon Musk's goal with XAI",
+        "answer": "Elon Musk's goal with XAI is to create a third company that is competitive in the field of artificial intelligence",
+        "start": 1760
+    },
+    {
+        "question": "How many cars have high-speed AI inference computers in them",
+        "answer": "There are approximately 4 million cars that have high-speed AI inference computers in them",
+        "start": 2525
+    },
+    {
+        "question": "What is the current state of Tesla's self-driving technology",
+        "answer": "The latest beta of Tesla's Full Self-Driving (FSD) system is considered to be very close to a situation where the probability of a safe journey without human oversight or intervention is higher than if a person is driving",
+        "start": 2525
+    },
+    {
+        "question": "How has the FSD beta improved over time",
+        "answer": "The FSD beta has shown dramatic improvement over the past six months, a year, and 18 months. The miles driven under the FSD beta are much safer compared to miles driven without it",
+        "start": 2525
+    },
+    {
+        "question": "What is the final piece of the puzzle for full self-driving to be better than human driving",
+        "answer": "The final piece of the puzzle is transitioning the control part of the car from about 300,000 lines of C++ code to a neural network, making the entire system a neural network from photons in to controls out",
+        "start": 2525
+    }
+]
