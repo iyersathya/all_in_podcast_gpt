@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What led Bill Gurley to engage with the government",
+        "answer": "Bill Gurley's interest in interacting with the government was sparked when he ran into an issue that required him to understand what was going on in Washington",
+        "start": 0
+    },
+    {
+        "question": "How did Bill Gurley initially feel about meeting with congressmen",
+        "answer": "Initially, Bill Gurley had zero interest in meeting with congressmen as he didn't see the need for it in his work with founders and technology",
+        "start": 0
+    },
+    {
+        "question": "What was the motivation behind Philadelphia's plan to offer inexpensive wireless internet service",
+        "answer": "The motivation behind Philadelphia's plan was to provide free Wi-Fi service across downtown areas, which would help with public safety, economic development, and bridging the digital divide",
+        "start": 0
+    },
+    {
+        "question": "How did the Telecommunications Act of 1996 impact the telecom industry",
+        "answer": "The Telecommunications Act of 1996 failed to promote competition and encourage innovation in the telecom industry, leading to increased market concentration and a decline in VC investment in telecom equipment",
+        "start": 0
+    },
+    {
+        "question": "What were the flaws in the act mentioned in the conversation",
+        "answer": "One flaw was the concern that people would buy software but not use it, so doctors were paid extra to prove they were using it. Another flaw was that the Department of Justice enforced fines against competitors who didn't have the required software features",
+        "start": 0
+    },
+    {
+        "question": "How did Germany and the UK handle rapid antigen tests compared to the US",
+        "answer": "Germany and the UK leaned heavily into rapid tests, evaluating and validating multiple vendors, resulting in affordable tests for their citizens. In contrast, the US had limited availability and higher prices for antigen tests",
+        "start": 0
+    },
+    {
+        "question": "Why are politicians interested in regulating the tech industry",
+        "answer": "It is speculated that politicians want to bring the tech industry into the regulatory system because it presents opportunities for financial gain. By attacking big tech, politicians may receive funding from competitors in the industry",
+        "start": 0
+    },
+    {
+        "question": "What were the three takeaways mentioned by the speaker",
+        "answer": "The speaker expressed doubts about the effectiveness of regulation, highlighted the negative impact of regulatory capture on capitalism, and emphasized that regulation can hinder innovation and prosperity",
+        "start": 0
+    },
+    {
+        "question": "How does the revolving door between the Senate and private sector contribute to the issue of regulatory capture",
+        "answer": "The revolving door allows senators and presidential candidates to leave the Senate and come back with significant amounts of money, creating a massive problem of regulatory capture",
+        "start": 1536
+    },
+    {
+        "question": "Is it feasible to unwind existing regulatory capture or does it only go in one direction",
+        "answer": "It is uncertain whether existing regulatory capture can be unwound, as attempts to deregulate in the past have not been successful and even if done by regulators, it may not effectively address the issue",
+        "start": 1536
+    },
+    {
+        "question": "What are the potential consequences of subjecting AI to regulation",
+        "answer": "Subjecting AI to regulation could turn the software industry into a heavily regulated sector, similar to the pharmaceutical or military industrial complex, potentially stifling innovation and funding for startups",
+        "start": 1536
+    },
+    {
+        "question": "How does the influence of money in politics impact the writing of laws",
+        "answer": "The low threshold of dollars required to influence laws is shocking, allowing individuals with enough money to get in front of senators and congresspersons and have their interests reflected in legislation",
+        "start": 1536
+    }
+]
