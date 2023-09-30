@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Bestie intros with Coleman Hughes",
+        "description": [
+            "Coleman Hughes, a writer and podcaster, was invited to speak at Ted and gave a powerful talk titled \"A Case for Color Blindness.\" However, there was a bizarre reaction from Ted after his talk, as they tried to ban and kill it."
+        ],
+        "start": 0
+    },
+    {
+        "title": "Coleman's experience with TED, Understanding TED's ideological shift",
+        "description": [
+            "Coleman Hughes, a writer and podcaster, was invited to give a TED Talk titled \"A Case for Color Blindness.\" His talk argued for treating people without regard to race and using class as a variable in public policy. While the majority of the audience received the talk well, a small minority of staff members at TED were upset by it. This led to a series of negotiations on how to release the talk, including a proposed debate with a New York Times columnist. When the talk was finally released, it received significantly fewer views compared to other talks, leading to accusations of intentional under-promotion by TED. Coleman's experience with TED reflects a shift in the organization's culture, with talks becoming more focused on social justice and lacking diverse perspectives.",
+            "TED has undergone a shift in ideology, losing its focus on discourse and becoming a platform for like-minded opinions. This change has been noticed by many long-time members of the TED community. It is unclear whether this shift is driven by leadership or the influence of staff members who do not value free speech and open discourse. The leadership may have failed to uphold the institution's values, leading to the capture of TED from the bottom up. Some attendees have reported feeling attacked during talks, even though the speaker's content was mild."
+        ],
+        "start": 72
+    },
+    {
+        "title": "Focusing on class instead of race when enacting policies, reaction to Coleman's talk, institutional takeovers",
+        "description": [
+            "The video transcript discusses the reaction to Coleman's talk on focusing on class instead of race when enacting policies. Chamath, a person who grew up as a refugee on welfare, expresses his support for the talk, stating that he struggled with confusing mistreatment with racism and that having a framework like Coleman's talk would have helped him avoid self-sabotage. Coleman mentions that the stereotype that people of color don't like his talk is not true, as many people of color, including immigrants, resonate with his message. He argues for confronting each other as human beings rather than playing racial roles. The discussion then shifts to the institutional capture happening in organizations like TED, where ideas worth spreading are being suppressed or subjected to rebuttals. The concept of being genuinely hurt by encountering well-reasoned ideas is criticized, as it undermines the marketplace of ideas and free speech. Coleman acknowledges the difficulty of addressing institutional capture but suggests starting new institutions with the right ethos as a solution.",
+            "The video transcript discusses the idea of focusing on class instead of race when enacting policies. The speakers argue that suppressing offensive ideas can hinder progress and that it is important to challenge mainstream concepts. They also discuss the potential reasons why some people may feel genuinely hurt by opposing viewpoints. The conversation touches on the need to address the root causes of issues, such as the effects of welfare reforms in the 1960s and 70s. The speakers also discuss diversity in the venture capital industry and whether there should be specific venture firms designed to change the ratio. They explore the idea of hiring based on merit rather than race or gender. The transcript concludes with a discussion on the challenges faced by institutional leaders and political parties in navigating these issues.",
+            "The video transcript discusses various topics, including a podcast called \"Conversations with Coleman,\" the guest David Sacks, the controversy surrounding Scott Adams, the TED Talk event and its pricing, the criticism of TED for suppressing certain talks, the hypocrisy of the TED audience, the apology from Chris Anderson (TED's curator), potential remedies for TED's issues, and the importance of leadership and values. The conversation ends with a discussion about virtue signaling in the Canadian Parliament."
+        ],
+        "start": 911
+    },
+    {
+        "title": "\"When Virtue Signalling Goes Wrong\": Canadian parliament cheers for a Nazi",
+        "description": [
+            "The Canadian Parliament recently faced criticism for giving a standing ovation to a 98-year-old Ukrainian war hero who was a former member of the Waffen SS Galicia division, a voluntary unit under Nazi command. The incident occurred during Ukrainian President Zelensky's speech at the Canadian House of Commons. The Canadian Parliament has since apologized for the mistake. The discussion also touches on the lack of competence and professionalism in Canadian politics, as well as the historical connections between far-right groups and the Ukrainian government.",
+            "The video transcript discusses the issue of virtue signaling and the Canadian parliament cheering for a Nazi. The speaker highlights the difference between neo-Nazi groups in the United States and Ukraine, mentioning the presence of Nazi insignia on Ukrainian soldiers' uniforms. They argue that there has been a deliberate effort to cover up this problem and turn a blind eye to it. The speaker also mentions the US State Department's alignment with far-right groups in Ukraine for political reasons. They emphasize the problematic nature of aligning with neo-Nazi groups and question the moralistic foreign policy of countries like the United States. The discussion also touches on Canadian politics and the history of Canada taking in former Nazis after World War II. The speaker concludes by mentioning news about opening AI's plans to raise funds and collaborate with Johnny Ive and Masayoshi Son to develop an AI consumer product."
+        ],
+        "start": 2649
+    },
+    {
+        "title": "OpenAI's big week, informed speculation on Sam Altman's actual ownership of OpenAI",
+        "description": [
+            "Sam Altman is seen as an influential figure in the tech industry due to his involvement with OpenAI. While it is unclear if he has any equity in the company, he is expected to benefit from his position and connections. OpenAI has implemented a capped return model in its fundraising rounds, meaning that investors' shares increase in value until the company reaches a certain market cap, at which point they are cashed out. This approach allows OpenAI to avoid certain legal issues. Altman has set up a foundation that technically owns the shares of OpenAI, but he likely maintains control over it. If OpenAI becomes a trillion-dollar company, Altman could potentially own 100% of it. However, this is speculative and not confirmed. The conversation also touches on Elon Musk's involvement and the technology behind OpenAI."
+        ],
+        "start": 3977
+    },
+    {
+        "title": "The next evolution of AI: multimodal and consumer hardware",
+        "description": [
+            "The video transcript discusses two major announcements in the field of AI. The first is the introduction of multi-modal features in chat GPT, which allows for input in various forms such as voice, code, data, and images. This innovation enables more versatile and interactive interactions with AI systems. The second announcement is the integration of Google services like Google Flights, Google Docs, and Gmail into the BART platform, which allows for more seamless and efficient access to these services. The speaker also highlights the emergence of Language Models (LLMs) as a new type of operating system that can interpret code, access information, and render content in different modalities. LLMs have the potential to revolutionize computing interfaces and human-computer interaction. The discussion also touches on the possibility of replacing the traditional app-based interface on mobile phones with voice or visual interfaces, where in-stream services and plugins can be accessed through a chat-like interface. The speaker emphasizes the transformative potential of these advancements in computing and expresses excitement about the possibilities they offer.",
+            "The video transcript discusses various topics, including the announcement of Facebook's new AR glasses, the use of a note-taking app called Reflect, the importance of external memory for managing information overload, the integration of Reflect with Google Calendar, the desire for a prompt to remember past meetings, and some personal anecdotes. The conversation ends with a mention of opening sourcing a project called Rain Man."
+        ],
+        "start": 4359
+    }
+]
