@@ -185,6 +185,9 @@ channel = "**The All-IN Podcast**"
 all_in_directory = f"data/all_in"
 
 dir_list = [
+    "7imwAJ0XcqQ",
+    "65-x2YVUugE",
+    "2RAfff-oMKw",
     "UZtQcnt12SM",
     "4spNsmlxWVQ",
     "X-Sb8sIi22g",
