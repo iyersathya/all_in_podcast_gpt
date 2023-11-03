@@ -1,0 +1,162 @@
+[
+    {
+        "question": "How many applicants are there for the CEO position",
+        "answer": "There are 240 applicants for the CEO position",
+        "start": 0
+    },
+    {
+        "question": "What is the potential expansion for the All-In Pod",
+        "answer": "The All-In Pod is considering expanding into a media and events business, and potentially a consumer packaged goods (CPG) business as well",
+        "start": 0
+    },
+    {
+        "question": "What is the purpose of the 'Learn with Me' content",
+        "answer": "The purpose of the 'Learn with Me' content is to share curated news summaries and essays to help Mark and others make better decisions, while also holding himself accountable to continue learning",
+        "start": 0
+    },
+    {
+        "question": "How has Sacks' content creation changed since starting the pod",
+        "answer": "Sacks has become more active in creating content, particularly on Twitter, and has expanded beyond his occasional blog posts to writing pieces on topics like Ukraine",
+        "start": 0
+    },
+    {
+        "question": "What is the significance of the 'Cronkite moment' in relation to the Vietnam War and the current situation in Ukraine",
+        "answer": "The 'Cronkite moment' refers to when Walter Cronkite's statement about the unwinnability of the Vietnam War shifted public sentiment. In the current situation in Ukraine, it is compared to the Time magazine article where Zelensky's aides and advisors express similar sentiments about the war being unwinnable",
+        "start": 605
+    },
+    {
+        "question": "How did the writer of the Time magazine article gain access to Zelensky's inner circle",
+        "answer": "The writer, Simon Schuster, had previously written an in-depth profile of Zelensky and maintained relationships with his inner circle, allowing him to have access and provide revealing insights",
+        "start": 605
+    },
+    {
+        "question": "Will the publication of this article change the perspective of policymakers in Washington regarding the Ukraine conflict",
+        "answer": "While the article echoes what critics have been saying for months, the fact that it comes from Zelensky's own inner circle may have a significant impact on public perception. However, it is unlikely to immediately change the perspective of policymakers who still seem inclined to support Ukraine",
+        "start": 605
+    },
+    {
+        "question": "How does the article's revelations affect the market's perception of the Ukraine conflict",
+        "answer": "The article's revelations, if true, remove the risk of a full-scale war and instead frame the conflict as a cycle of corruption and bleeding money. This reassures investors and may lead to a more positive market outlook",
+        "start": 605
+    },
+    {
+        "question": "How are building owners dealing with the significant debt on their properties",
+        "answer": "Building owners are either handing the keys back to the bank or seeking to restructure their debt",
+        "start": 1325
+    },
+    {
+        "question": "What is the potential risk for banks if they have to start writing down the debt on commercial real estate",
+        "answer": "If banks have to write down the debt, their balance sheets will become impaired, posing a risk to the market",
+        "start": 1325
+    },
+    {
+        "question": "How much of the $3 trillion of debt on commercial real estate is likely impaired",
+        "answer": "It is estimated that around 30-40% of the debt on commercial real estate may be impaired",
+        "start": 1325
+    },
+    {
+        "question": "What challenges do business owners face in returning to San Francisco and renting cheap buildings",
+        "answer": "Business owners struggle with the high cost of operating in San Francisco and the reluctance to bring their teams back due to various factors such as expenses and the city's current state",
+        "start": 1325
+    },
+    {
+        "question": "Who owns the equity in commercial buildings and who ultimately bears the loss in case of impairment on commercial real estate debt",
+        "answer": "The ownership of equity in commercial buildings and the ultimate loss in case of impairment on commercial real estate debt is a complex issue. It depends on various factors such as the ownership structure of the buildings and the distribution of debt among different entities",
+        "start": 1990
+    },
+    {
+        "question": "Are the book values of regional bank stocks legitimate and accurately valued to market",
+        "answer": "No, the book values of regional bank stocks are currently trading at a significant discount to their accounting values. This discrepancy has raised concerns about the accuracy of their valuations and the potential impact on the market",
+        "start": 1990
+    },
+    {
+        "question": "Is it realistic to expect the Biden program of converting commercial buildings into residential buildings to increase affordable housing density in urban centers",
+        "answer": "Converting office buildings into residential buildings to increase affordable housing density is a challenging task. Most commercial office buildings do not meet the structural and architectural requirements for residential conversions. While the Biden program sends a positive signal, its effectiveness in achieving the desired outcome remains uncertain",
+        "start": 1990
+    },
+    {
+        "question": "How will San Francisco address its projected budget shortfalls in the coming years",
+        "answer": "San Francisco is likely to borrow money to address its projected budget shortfalls. Similar to other municipalities, it may rely on borrowing in the muni market to fund its expenses. However, this approach can only be sustained for a limited period before harsh changes and rationality become necessary",
+        "start": 1990
+    },
+    {
+        "question": "Who is Regis and why is their involvement in SoftBank significant",
+        "answer": "Regis is not mentioned in the given text, so we cannot determine their identity or significance in relation to SoftBank",
+        "start": 2726
+    },
+    {
+        "question": "What are some concerns raised about the executive order on AI regulation",
+        "answer": "Some concerns raised about the executive order include its lack of coherence, arbitrary requirements, and the attempt to regulate systems and methods rather than outcomes and applications",
+        "start": 2726
+    },
+    {
+        "question": "How does the executive order propose to regulate AI content and what are the concerns associated with it",
+        "answer": "The executive order suggests watermarking AI content and tracking it through government audits, which raises concerns about potential infringements on First Amendment rights and a lack of understanding of how software is commonly used",
+        "start": 2726
+    },
+    {
+        "question": "What historical example is given to argue against excessive regulation of AI development",
+        "answer": "The example of the PC revolution and the birth of the microprocessor is given to argue against excessive regulation, highlighting that fears and predictions of harm did not guide the development of the industry and that potential would have been stifled if it had",
+        "start": 2726
+    },
+    {
+        "question": "What are the potential consequences of the government's regulations on AI and software companies",
+        "answer": "The regulations could lead to more bureaucracy, hinder innovation, and put the United States at a disadvantage on a global stage",
+        "start": 3398
+    },
+    {
+        "question": "How might the creation of a Federal Software Commission impact the software industry",
+        "answer": "It could result in the loss of entrepreneurial capitalism and the need for companies to seek permission from the government before operating",
+        "start": 3398
+    },
+    {
+        "question": "How does the current regulatory approach to AI and software create confusion and chaos",
+        "answer": "The overly generalized approach and lack of specific guidelines make it difficult for businesses to determine if they are in violation or compliance with the regulations",
+        "start": 3398
+    },
+    {
+        "question": "What has been the historical advantage of the United States in terms of technology development",
+        "answer": "The vibrant private sector and lack of government involvement have allowed the U.S. to lead in new technology development, such as the Internet and mobile technology",
+        "start": 3398
+    },
+    {
+        "question": "What are some of the key drivers that have led to a shift in political affiliations among Silicon Valley Democrats",
+        "answer": "Some of the key drivers include reckless fiscal and monetary policies, the state of San Francisco, COVID policies, regulatory capture, betrayal of liberal values, targeting of tech visionaries, wokeness going off the rails, and the recent Israel-Hamas war",
+        "start": 4046
+    },
+    {
+        "question": "Are there Silicon Valley Democrat donors considering shifting their donations to Republican Party candidates and causes",
+        "answer": "Yes, it is estimated that billions of dollars in donations have been paused by Democrat donors in Silicon Valley, indicating a potential shift in their giving towards Republican Party candidates and causes",
+        "start": 4046
+    },
+    {
+        "question": "How has the recent Israel-Hamas war affected the political views of liberals in Silicon Valley",
+        "answer": "The war has led many liberals, both Jews and non-Jews, to question their prior beliefs and alliances on the left, as they witnessed the targeting of Jews and the support for a terrorist organization by some members of the woke left",
+        "start": 4046
+    },
+    {
+        "question": "What is the end goal for those who are reevaluating their political affiliations and beliefs",
+        "answer": "The end goal is to create a more balanced and thoughtful approach to electing and governing, in order to address the concerns and issues that have led to the shift in political affiliations among Silicon Valley Democrats",
+        "start": 4046
+    },
+    {
+        "question": "What is the speaker's opinion on the role of the federal government in the economy",
+        "answer": "The speaker believes that the federal government should have a smaller role in funding industry and hiring individuals, and that more of the economy should be supported by private industry",
+        "start": 4741
+    },
+    {
+        "question": "How does the speaker define AI",
+        "answer": "The speaker defines AI as software-based algorithms that use data, software, and statistics to make predictions and perform tasks",
+        "start": 4741
+    },
+    {
+        "question": "What are the two new software capabilities that the speaker mentions",
+        "answer": "The two new software capabilities mentioned are chat-based human-computer interaction and generative tooling for creating digital outputs like art, video, and audio",
+        "start": 4741
+    },
+    {
+        "question": "What is the speaker's view on the current state of AI development",
+        "answer": "The speaker believes that while AI has made significant improvements in statistical guessing, there is still a long way to go before proven use cases that significantly increase productivity are achieved",
+        "start": 4741
+    }
+]
