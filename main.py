@@ -1,6 +1,4 @@
 import streamlit as st
-from langchain import PromptTemplate
-from langchain.llms import OpenAI
 import streamlit.components.v1 as components
 import json
 import os
@@ -24,11 +22,11 @@ def convert(seconds):
     return "%d:%02d:%02d" % (hour, minutes, seconds)
 
 
-def load_LLM(openai_api_key):
-    """Logic for loading the chain you want to use should go here."""
-    # Make sure your openai_api_key is set as an environment variable
-    llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key)
-    return llm
+# def load_LLM(openai_api_key):
+#     """Logic for loading the chain you want to use should go here."""
+#     # Make sure your openai_api_key is set as an environment variable
+#     llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key)
+#     return llm
 
 
 def gen_markdown_url(text, url):
@@ -185,6 +183,7 @@ channel = "**The All-IN Podcast**"
 all_in_directory = f"data/all_in"
 
 dir_list = [
+    "1hh8lcoJ1NA",
     "3EFk40AbO94",
     "gFoHAl9MwZU",
     "7imwAJ0XcqQ",
