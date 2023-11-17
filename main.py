@@ -294,5 +294,10 @@ st.markdown(
     "[Go to Interesting content clips from this video](#interesting-content-clips)",
     unsafe_allow_html=True,
 )
+st.markdown(
+    "Contact sathya.iyer@gmail.com for details about creating this GPT content",
+    unsafe_allow_html=True,
+)
+
 st.divider()
 display_video_content(episodes_selection)
