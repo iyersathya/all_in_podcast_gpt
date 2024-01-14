@@ -1,0 +1,207 @@
+[
+    {
+        "question": "What countries have participated in the strikes against Houthi targets in Yemen",
+        "answer": "The countries that have participated in the strikes against Houthi targets in Yemen include the US, UK, Israel, Qatar, UAE, Saudi Arabia, Australia, Canada, Netherlands, and Bahrain",
+        "start": 0
+    },
+    {
+        "question": "What is the purpose of the strikes in Yemen",
+        "answer": "The purpose of the strikes is to restore deterrence and prevent the Houthis from attacking commercial shipping in the Red Sea",
+        "start": 0
+    },
+    {
+        "question": "How has the conflict in Yemen impacted global trade",
+        "answer": "The conflict in Yemen has disrupted global trade, particularly for shipping containers from China going to European ports. It has led to increased shipping prices and longer travel times for goods",
+        "start": 0
+    },
+    {
+        "question": "Why did the US get involved in the conflict in Yemen",
+        "answer": "The reasons for US involvement in the conflict are debated, with some suggesting it may be a distraction from domestic issues or a way to show leadership and support for allies. However, there may not be a clear economic incentive for the US to be involved",
+        "start": 0
+    },
+    {
+        "question": "What is the general sentiment of the American people towards starting foreign wars",
+        "answer": "The American people are generally against starting foreign wars, especially after two decades of Middle Eastern wars",
+        "start": 649
+    },
+    {
+        "question": "How does the media influence the American people's support for wars",
+        "answer": "The media plays a role in manufacturing consent for U.S. involvement in wars by demonizing the opposing side and engaging in threat inflation",
+        "start": 649
+    },
+    {
+        "question": "Why did the Biden administration's handling of the Secretary of Defense's absence raise concerns",
+        "answer": "The fact that the White House couldn't find the Secretary of Defense for a couple of days raised concerns about the lack of a clear chain of command and potential national security implications",
+        "start": 649
+    },
+    {
+        "question": "What factors contribute to the current inflationary environment",
+        "answer": "Lagging effects of an overheated or overstimulated economy, such as rising car insurance rates and other costs, are contributing to the current inflationary environment",
+        "start": 649
+    },
+    {
+        "question": "What factors contributed to the depletion of the U.S. Strategic Petroleum Reserve",
+        "answer": "The U.S. Strategic Petroleum Reserve was depleted due to the administration releasing crude from it to lower oil prices during a period of high inflation and gas prices",
+        "start": 1266
+    },
+    {
+        "question": "How does the depletion of the Strategic Petroleum Reserve impact the U.S.'s ability to handle an oil shock",
+        "answer": "The depletion of the Strategic Petroleum Reserve reduces the government's ability to mitigate an oil shock, as they have less reserves to rely on in case of a crisis",
+        "start": 1266
+    },
+    {
+        "question": "Is the Strategic Petroleum Reserve designed to be used in times of economic crisis",
+        "answer": "No, the Strategic Petroleum Reserve is meant to be used in situations of acute disruption, such as wars or major conflicts that affect oil supply",
+        "start": 1266
+    },
+    {
+        "question": "How does the U.S.'s domestic oil capability contribute to its self-sufficiency and ability to handle oil shocks",
+        "answer": "The development of domestic oil capability under presidents Obama and Trump has made the U.S. self-sufficient and a net exporter of oil, which strengthens its ability to handle oil shocks",
+        "start": 1266
+    },
+    {
+        "question": "What was the killer feature of Carta mentioned in the conversation",
+        "answer": "The killer feature of Carta was digitizing stock certificates and allowing users to sign for them using e-signatures",
+        "start": 1943
+    },
+    {
+        "question": "Why did the software of Carta become complicated",
+        "answer": "The software of Carta became complicated due to the addition of more workflows and features over time, such as fund management, making it stickier and more feature-rich",
+        "start": 1943
+    },
+    {
+        "question": "Why did some startups find Carta's pricing expensive",
+        "answer": "Some startups found Carta's pricing expensive because it was around $10,000 a year, which could be a significant cost for seed stage startups",
+        "start": 1943
+    },
+    {
+        "question": "What was the violation of trust that Carta faced",
+        "answer": "Carta violated the trust and privacy of companies by directly contacting angel investors and early stage investors on their cap table, trying to create a market for their shares without permission",
+        "start": 1943
+    },
+    {
+        "question": "What is Chamath's plan to disrupt the SaaS industry",
+        "answer": "Chamath's plan is to underprice SaaS software by 90% and build software more efficiently using co-pilots and tools",
+        "start": 2529
+    },
+    {
+        "question": "Can software be built at a 10% price point while delivering 80% of the functionality",
+        "answer": "It is possible to build software at a 10% price point while delivering 80% of the functionality, but it depends on the category and the depth of features required",
+        "start": 2529
+    },
+    {
+        "question": "Will bringing down the price of SaaS software compress sales and marketing costs",
+        "answer": "Bringing down the price of SaaS software is unlikely to significantly compress sales and marketing costs, as sales still play a crucial role in enterprise software adoption",
+        "start": 2529
+    },
+    {
+        "question": "How can software automate the negotiation and adoption process",
+        "answer": "The key innovation in automating the negotiation and adoption process is to have lightweight tools that can configure themselves dynamically and negotiate for a share of the budget allocated by the CFO or CEO",
+        "start": 2529
+    },
+    {
+        "question": "How does Slack's channel model create scalability issues",
+        "answer": "Slack's channel model leads to scalability issues because every employee ends up in every channel, resulting in too much noise and distraction",
+        "start": 2529
+    },
+    {
+        "question": "What is the main issue with Carta's attempt to create a secondary marketplace",
+        "answer": "The main issue is that founders of private companies do not want their shares to be freely traded and they are particular about who their shareholders are",
+        "start": 3164
+    },
+    {
+        "question": "Why do founders of private companies not want secondary markets to take place in their company's shares",
+        "answer": "There are a few reasons for this. One reason is that the shares may trade below the last round's mark, resulting in a lower valuation. Additionally, founders may not want new investors on the cap table that they don't know",
+        "start": 3164
+    },
+    {
+        "question": "How has SpaceX approached organized liquidity for their employees and investors",
+        "answer": "SpaceX has implemented a tender offer every six months, allowing their employees and investors to get liquidity when they need it. This organized process has been successful for them",
+        "start": 3164
+    },
+    {
+        "question": "Why did Carta's attempt to create a secondary marketplace compromise trust and safety",
+        "answer": "The broker business that Carta added compromised the perception of trust that the company had from customers. This led to a realization that the real value is in their SaaS software, not the marketplace",
+        "start": 3164
+    },
+    {
+        "question": "What was the response to the first denial from Carta's CEO regarding their policy",
+        "answer": "The first response enraged people and was seen as a confusing denial, leading to a loss of trust",
+        "start": 3701
+    },
+    {
+        "question": "Why do startup founders not want their cap table software to be engaged in a secondary market",
+        "answer": "Founders do not want a secondary market because they want the money to go into the company, not into the pockets of early shareholders",
+        "start": 3701
+    },
+    {
+        "question": "What was the reaction to the announcement of a female director for Star Wars",
+        "answer": "The fan community groaned at the announcement, fearing that Star Wars would be politicized and ruined like other Disney brands",
+        "start": 3701
+    },
+    {
+        "question": "What are the political overtones of Star Wars according to the speakers",
+        "answer": "The speakers believe that Star Wars reflects themes of power corruption, the oppressor-oppressed narrative, and the influence of technology and wealth",
+        "start": 3701
+    },
+    {
+        "question": "How has the DEI movement affected the intentionality of filmmaking in Hollywood",
+        "answer": "The DEI movement has imposed standards on what artists are allowed to do and how they make their films, leading to a shift in the creative process in Hollywood",
+        "start": 4369
+    },
+    {
+        "question": "How has the focus on inclusivity and diversity in Disney movies been perceived by Bob Iger",
+        "answer": "Bob Iger has been contradictory in his statements about inclusivity and diversity in Disney movies, initially doubling down on it but later suggesting that the movies have become too focused on messaging",
+        "start": 4369
+    },
+    {
+        "question": "How has the push for diversity affected live performances in symphonies",
+        "answer": "Live performances in symphonies have shifted from blind auditions to judging performers based on their race, gender, and other standards, which has had a deep impact on the industry",
+        "start": 4369
+    },
+    {
+        "question": "What is the impact of DEI discussions on the hiring criteria for certain professions",
+        "answer": "DEI discussions have raised questions about whether skill should be the sole determinant of success in professions like aviation and medicine, where the consequences of failure are high",
+        "start": 4369
+    },
+    {
+        "question": "What is the Mott and Bailey tactic and how does it relate to the DEI movement",
+        "answer": "The Mott and Bailey tactic is a rhetorical technique where one takes an aggressive position and then retreats into a more defensible position when challenged. In the context of the DEI movement, it refers to advocating for proportional representation but then claiming to only aim for expanding the pool of qualified applicants when faced with criticism",
+        "start": 5068
+    },
+    {
+        "question": "How does the DEI movement contribute to discrimination against certain groups",
+        "answer": "The DEI movement, despite claiming to promote diversity and inclusion, has been found to engage in overt discrimination against certain groups, such as Asian Americans. This discrimination becomes evident when the movement's goal of proportional representation results in unfair treatment",
+        "start": 5068
+    },
+    {
+        "question": "How can a focus on education contribute to a more just society",
+        "answer": "By ensuring equal access to high-quality education and creating more competitive school options, individuals from disadvantaged backgrounds can have better opportunities and a fairer starting point. This can lead to a more just society by addressing the disparities caused by poorly run public schools and lack of resources",
+        "start": 5068
+    },
+    {
+        "question": "How can expanding the school year contribute to a more just world",
+        "answer": "Expanding the school year to 365 days can provide more opportunities for education and create a more competitive environment. This can lead to increased effort and engagement from students and parents, ultimately improving the quality of education and providing equal opportunities for all",
+        "start": 5068
+    },
+    {
+        "question": "What does the speaker believe is the most important factor for a functioning society",
+        "answer": "The speaker believes that having a structural nuclear family, meaning a two-parent household, is crucial for a functioning society",
+        "start": 5634
+    },
+    {
+        "question": "How does the speaker suggest incentivizing people to commit to a long-term partnership",
+        "answer": "The speaker suggests finding ways to re-incentivize individuals to commit to a single person, such as through tax incentives or cultural norms",
+        "start": 5634
+    },
+    {
+        "question": "What potential solution does one of the speakers mention for promoting education and increasing the number of two-parent households",
+        "answer": "One of the speakers suggests providing vouchers for tutoring to parents below a certain income level as a way to promote education and potentially increase the number of two-parent households",
+        "start": 5634
+    },
+    {
+        "question": "Who are the speakers mentioned in the text",
+        "answer": "The speakers mentioned in the text are David Freeburg, the CEO of Ohalo, and Chamath Palihapitiya, the founder of the new 8090 Incubator",
+        "start": 5634
+    }
+]
