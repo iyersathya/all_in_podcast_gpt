@@ -1,0 +1,177 @@
+[
+    {
+        "question": "What did the speaker discover about the Apple Vision class",
+        "answer": "The speaker discovered that the Apple Vision class could improve productivity and streamline tasks in a greenhouse facility",
+        "start": 0
+    },
+    {
+        "question": "What are some potential use cases for the Apple Vision goggles in the workforce",
+        "answer": "Some potential use cases include real-time task updates for warehouse workers, automated data capture, and spatial video recording for training purposes",
+        "start": 0
+    },
+    {
+        "question": "What is the speaker's opinion on the impact of immersive technology on younger generations",
+        "answer": "The speaker believes that the immersive and detached world experienced by younger generations may contribute to negative outcomes such as depression, loneliness, and health issues",
+        "start": 0
+    },
+    {
+        "question": "What does the speaker hope for in terms of the future of technology and human interaction",
+        "answer": "The speaker hopes that humans will prioritize face-to-face communication, marriage, and having children over excessive reliance on immersive technology for productivity gains",
+        "start": 0
+    },
+    {
+        "question": "What are some concerns about the Apple Vision Pro as a VR device",
+        "answer": "Some concerns about the Apple Vision Pro include its size and comfortability, as well as the question of its use cases",
+        "start": 546
+    },
+    {
+        "question": "How does the Apple Vision Pro compare to other VR headsets in terms of comfort",
+        "answer": "According to one speaker, the Apple Vision Pro is designed to be more comfortable than other headsets, with a cushioning device and a well-designed band",
+        "start": 546
+    },
+    {
+        "question": "How does the Apple Vision Pro compare to other Apple products in terms of sales potential",
+        "answer": "One speaker predicts that the Apple Vision Pro could potentially generate $100 billion in sales within five years, making it a successful revenue stream for Apple",
+        "start": 546
+    },
+    {
+        "question": "What are some concerns about the societal impact of the Apple Vision Pro",
+        "answer": "Some concerns include the potential for addiction and the loss of social interaction and communication skills among users, particularly children",
+        "start": 546
+    },
+    {
+        "question": "What is the use case for the personal device mentioned in the conversation",
+        "answer": "The use case for the personal device is not for transferring between users, as it requires a reset of the eye position for each user",
+        "start": 1080
+    },
+    {
+        "question": "How has the ability to communicate been affected by the use of devices",
+        "answer": "Despite having limited access to devices, the speakers note that younger generations are less able to communicate effectively compared to when they were younger",
+        "start": 1080
+    },
+    {
+        "question": "What factors contributed to Snap's poor performance",
+        "answer": "Snap's poor performance can be attributed to a significant increase in operating expenses, resulting in a higher operating loss over the years",
+        "start": 1080
+    },
+    {
+        "question": "Why did Snap's stock price drop",
+        "answer": "Snap's stock price dropped due to a pullback in ad spend and their failure to address the increasing operating expenses in a timely manner",
+        "start": 1080
+    },
+    {
+        "question": "How did Meta and Snap differ in terms of their allocation of free cash flow to employees and shareholders",
+        "answer": "Meta gave employees about 20% of the free cash flow and used the extra cash to buy back $20 billion of stock, while Snap gave employees 40 times the free cash flow",
+        "start": 1632
+    },
+    {
+        "question": "How did Meta respond to the change in Apple's tracking policy and its impact on the ad network",
+        "answer": "Meta used AI to optimize ads and regain the lost revenue, according to an insider",
+        "start": 1632
+    },
+    {
+        "question": "What is the current state of the SaaS industry after a period of deceleration",
+        "answer": "The SaaS industry is experiencing a bounce back in growth, with companies reporting higher net new ARR and quarter-over-quarter growth",
+        "start": 1632
+    },
+    {
+        "question": "How did the SaaS depression impact customer spending and vendor consolidation",
+        "answer": "Customers were focused on cost-cutting and vendor consolidation during the SaaS depression, but now there is a willingness to spend on SaaS to increase productivity",
+        "start": 1632
+    },
+    {
+        "question": "What are the three categories that the speakers divide the AI space into",
+        "answer": "The three categories are models, infrastructure, and applications",
+        "start": 2343
+    },
+    {
+        "question": "According to one of the speakers, what is the argument for open AI maintaining its lead in the market",
+        "answer": "The argument is that open AI is currently ahead of open source models and even if open source catches up, open AI's large consumer base and developer-friendly platform give it an advantage",
+        "start": 2343
+    },
+    {
+        "question": "What is the advantage of using open AI's platform for developers",
+        "answer": "The advantage is that developers can easily create custom GPTs without the hassle of training and fine-tuning their own models in the open source ecosystem",
+        "start": 2343
+    },
+    {
+        "question": "What is the importance of speed and usability in API services",
+        "answer": "Speed and usability are crucial in API services because even if a model is of high quality, if it takes too long to generate results, it becomes impractical for developers to use",
+        "start": 3110
+    },
+    {
+        "question": "How did Google's focus on speed impact consumer behavior",
+        "answer": "Google's emphasis on faster search results led to increased usage and user retention, demonstrating how consumer behavior is influenced by milliseconds of delay",
+        "start": 3110
+    },
+    {
+        "question": "Can OpenAI achieve the necessary levels of performance",
+        "answer": "OpenAI has three different businesses, and while they may converge in terms of quality, the sustainability of their closed model trained on the open internet may be challenging without acquiring proprietary apps or platforms",
+        "start": 3110
+    },
+    {
+        "question": "What is the path that OpenAI is on",
+        "answer": "OpenAI aims to establish itself as the go-to platform for consumer queries, expand into enterprise licenses and team workspaces, and provide a user-friendly development platform for creating custom GPT models",
+        "start": 3110
+    },
+    {
+        "question": "What is the advantage of using YouTube data for AI models",
+        "answer": "YouTube data is valuable for AI models because it contains a vast amount of diverse data, including video, image, audio, and text, making it a comprehensive and growing resource",
+        "start": 3720
+    },
+    {
+        "question": "How does the amount of data in YouTube compare to other data sources",
+        "answer": "YouTube's data repository is significantly larger than other sources, such as Common Crawl, with an estimated 2000 to 3000 petabytes of data, making it the most valuable asset for AI models",
+        "start": 3720
+    },
+    {
+        "question": "How do companies like Google and Facebook leverage their proprietary data advantage",
+        "answer": "Companies like Google and Facebook use their proprietary data advantage to train more advanced models and provide better services, giving them a competitive edge in the AI industry",
+        "start": 3720
+    },
+    {
+        "question": "What challenges does the commercial real estate market currently face",
+        "answer": "The commercial real estate market, particularly the office and retail sectors, is experiencing significant challenges due to people not returning to work, resulting in empty offices and potential write-downs",
+        "start": 3720
+    },
+    {
+        "question": "Who is likely to bear the burden of the massive write-down in the office market",
+        "answer": "Retirees and pensioners are likely to bear the burden of the massive write-down in the office market",
+        "start": 4348
+    },
+    {
+        "question": "Why do debt holders not want to foreclose on buildings",
+        "answer": "Debt holders do not want to foreclose on buildings because it would require them to write down the loan and potentially exceed the value of the property",
+        "start": 4348
+    },
+    {
+        "question": "What is the strategy of debt holders to avoid recognizing losses",
+        "answer": "Debt holders employ a strategy called 'pretend and extend' where they work out deals with equity holders to postpone debt payments and hope for a market recovery",
+        "start": 4348
+    },
+    {
+        "question": "What are the challenges faced by multifamily developers in the current market",
+        "answer": "Multifamily developers are facing higher financing costs due to a credit crunch, which may result in their buildings being underwater and their debt payments exceeding expectations",
+        "start": 4348
+    },
+    {
+        "question": "What potential consequences are mentioned for Silicon Valley and San Francisco in the given text",
+        "answer": "The potential consequences mentioned for Silicon Valley and San Francisco include the possibility of having to pay for office spaces and leases at a much lower rate, as well as the risk of buildings becoming insolvent",
+        "start": 5059
+    },
+    {
+        "question": "Who is suggested to potentially bail out the creditors in this situation",
+        "answer": "Janet Yellen, the Treasury Secretary, is suggested to potentially bail out the creditors in this situation",
+        "start": 5059
+    },
+    {
+        "question": "Is it mentioned that there might be congressional action on this issue",
+        "answer": "Yes, it is mentioned that there might be congressional action on this issue",
+        "start": 5059
+    },
+    {
+        "question": "Who are the speakers mentioned in the text",
+        "answer": "The speakers mentioned in the text are David Freberg, David Sachs, Chamath Palihapitiya, and the world's greatest moderator",
+        "start": 5059
+    }
+]
